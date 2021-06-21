@@ -13,6 +13,7 @@
 OBJ = obj
 
 KIND  = icon
+KIND += favicon
 KIND += logo
 KIND += rect
 KIND += badge
@@ -29,6 +30,7 @@ SIZE += 512
 SIZE += 1024
 
 EXPORT  = $(SIZE:%=$(OBJ)/icon/%.png)        $(OBJ)/icon.pdf
+EXPORT += $(SIZE:%=$(OBJ)/favicon/%.png)     $(OBJ)/favicon.pdf
 EXPORT += $(SIZE:%=$(OBJ)/logo/%.png)        $(OBJ)/logo.pdf
 EXPORT += $(SIZE:%=$(OBJ)/rect/%.png)        $(OBJ)/rect.pdf
 EXPORT += $(SIZE:%=$(OBJ)/badge/%.png)       $(OBJ)/badge.pdf
