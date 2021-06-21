@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="-54.759" y="-50.335" width="1648.52" height="654.911" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,79.6873,46.0488)">
+        <g transform="matrix(1.9938,0,0,1.9938,519.254,104.622)">
+            <path d="M30,10L30,43.333L56.667,43.333L56.667,70L90,70L90,10L30,10Z" style="fill:rgb(130,169,200);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.9938,0,0,1.9938,519.254,104.622)">
+            <rect x="10" y="50" width="40" height="40" style="fill:rgb(232,155,38);"/>
+        </g>
+        <g transform="matrix(13.9312,0,0,13.9312,-4047.46,-3533.5)">
+            <text x="305.131px" y="271.17px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;fill:rgb(78,117,146);">ABZ</text>
+        </g>
+        <g transform="matrix(3.66741,0,0,3.66741,-761.74,-816.247)">
+            <text x="324.153px" y="299.909px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:13.762px;fill:rgb(78,117,146);">2021</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-42.5794,15.1257)">
+            <text x="754.773px" y="131.387px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:30px;fill:rgb(78,117,146);">8</text>
+            <text x="772.563px" y="121.397px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:17.49px;fill:rgb(78,117,146);">th</text>
+            <text x="796.269px" y="131.387px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:30px;fill:rgb(78,117,146);">In<tspan x="821.049px 830.709px " y="131.387px 131.387px ">te</tspan>rna<tspan x="892.569px " y="131.387px ">t</tspan>ional<tspan x="968.079px " y="131.387px "> </tspan>Con<tspan x="1031.5px 1040.62px 1058.23px 1067.98px " y="131.387px 131.387px 131.387px 131.387px ">fere</tspan>nc<tspan x="1119.4px " y="131.387px ">e</tspan> on</text>
+            <text x="754.773px" y="161.387px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:30px;fill:rgb(78,117,146);">R<tspan x="774.213px " y="161.387px ">i</tspan>gor<tspan x="826.893px " y="161.387px ">o</tspan>us S<tspan x="902.853px 912.903px 929.133px 938.793px " y="161.387px 161.387px 161.387px 161.387px ">tate</tspan> Based M<tspan x="1085.01px 1102.5px " y="161.387px 161.387px ">et</tspan>hods</text>
+            <text x="754.773px" y="191.387px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:30px;fill:rgb(78,117,146);">0<tspan x="772.383px 786.303px " y="191.387px 191.387px ">7.</tspan> - 11. <tspan x="858.123px " y="191.387px ">J</tspan>une</text>
+        </g>
+    </g>
+</svg>
