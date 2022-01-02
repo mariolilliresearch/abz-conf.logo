@@ -1,9 +1,9 @@
 #
-#   Copyright (C) 2021 ABZ Conference <https://abz-conf.org>
+#   Copyright (C) 2021-2022 ABZ Conference <https://abz-conf.org>
 #   All rights reserved.
 #
 #   Developed by: Philipp Paulweber et al.
-#                 <https://github.com/abz-conf/abz-conf.logo>
+#                 <https://github.com/abz-conf/abz-conf.logo/graphs/contributors>
 #
 #   This file is part of abz-conf.logo.
 #
