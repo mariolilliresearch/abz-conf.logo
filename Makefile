@@ -18,6 +18,7 @@ KIND += logo
 KIND += rect
 KIND += badge
 KIND += banner
+KIND += banner_rsbm
 
 SOURCES = $(KIND:%=src/%.svg)
 
